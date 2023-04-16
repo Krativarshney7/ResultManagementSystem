@@ -1,0 +1,50 @@
+[
+  {
+    "AdmissionNo": 1,
+    "Session": 2023,
+    "Term": 1,
+    "Class": 1,
+    "English": 1,
+    "Math": 1,
+    "Science": 1,
+    "Computer": 1,
+    "SocialScience": 1,
+    "GK": 1,
+    "TotalMarks": 6,
+    "Average": 1.0,
+    "Grade": "F",
+    "IsDeleted": 0
+  },
+  {
+    "AdmissionNo": 2,
+    "Session": 2023,
+    "Term": 1,
+    "Class": 1,
+    "English": 99,
+    "Math": 99,
+    "Science": 99,
+    "Computer": 99,
+    "SocialScience": 99,
+    "GK": 99,
+    "TotalMarks": 594,
+    "Average": 99.0,
+    "Grade": "A",
+    "IsDeleted": 0
+  },
+  {
+    "AdmissionNo": 1,
+    "Session": 2024,
+    "Term": 2,
+    "Class": 1,
+    "English": 1,
+    "Math": 1,
+    "Science": 1,
+    "Computer": 1,
+    "SocialScience": 1,
+    "GK": 1,
+    "TotalMarks": 6,
+    "Average": 1.0,
+    "Grade": "F",
+    "IsDeleted": 0
+  }
+]

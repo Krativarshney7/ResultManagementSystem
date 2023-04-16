@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NdHrW+FGto5I9pTkIWkcTImon/Gf0jnuAIgTb+6IYPM9OKtKt/ZtB/TOJJ7w4Wkw/9+tjfzq9OSApELpSiDlHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Assignment\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
